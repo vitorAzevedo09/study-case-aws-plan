@@ -1,12 +1,12 @@
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 **Data:** 22 de março de 2024  
-**Empresa:** Higia Health Technology  
+**Empresa:** Abstergo Industries  
 **Responsável:** Vitor Azevedo Silva
 
 ## Introdução
 
-Este relatório apresenta o processo de implementação de ferramentas na empresa Higia Health Technology, realizado por Vitor Azevedo Silva. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
+Este relatório apresenta o processo de implementação de ferramentas na empresa Abstergo Industries, realizado por Vitor Azevedo Silva. O objetivo do projeto foi elencar 3 serviços AWS, com a finalidade de realizar diminuição de custos imediatos.
 
 ## Descrição do Projeto
 
