@@ -1,7 +1,3 @@
-Entendi. Vou adicionar espaços reservados para os links dos documentos de configuração e guias de implementação na seção de anexos. Aqui está o relatório atualizado:
-
----
-
 # RELATÓRIO DE IMPLEMENTAÇÃO DE SERVIÇOS AWS
 
 **Data:** 22 de março de 2024  
